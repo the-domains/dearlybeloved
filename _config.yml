@@ -1,0 +1,28 @@
+name: dearlybeloved
+favicon: null
+layout_spectrum: 0.09169384581036866
+typography_spectrum: 0.4641130736563355
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.731860562460497
+  lightness: 0.3578465008176863
+  saturation: 0.90223258594051
+  rhythmicContrast: 0.3965170471929014
+purpose: []
